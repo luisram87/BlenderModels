@@ -1,4 +1,4 @@
-## Blender Models page
+## Blender Models
 
 by Luis Cruz
 
