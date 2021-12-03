@@ -4,6 +4,6 @@ On this site, I am going to upload some of my projects in blender. The first aim
 * Bedrom
 
 ![](./img/RenderBedroom.PNG)
-[Download](./blends/tinyRoom.blend).
+[Download](https://drive.google.com/file/d/14Xj-pTnuBRbAjCBnpXQrGeLCw27J6mSD/view?usp=sharing).
 
 by Luis Cruz
